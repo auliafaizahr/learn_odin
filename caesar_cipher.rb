@@ -14,3 +14,5 @@ def caesar_cipher(sentence, range)
 		end
 	end
 end
+
+caesar_cipher("What a string!", 5)
